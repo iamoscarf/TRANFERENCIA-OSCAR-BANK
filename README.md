@@ -1,2 +1,2 @@
 # TRANFERENCIA-OSCAR-BANK
-Proyecto creado con la funcionalidad para hacer transferencias 
+Proyecto creado con la funcionalidad de hacer transferencias 
